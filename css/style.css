@@ -1,0 +1,31 @@
+body {
+  background: #f8e8a6;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  width: 600px;
+}
+
+a {
+  color: green;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+
+.links div {
+  padding: 10px;
+}
